@@ -29,7 +29,7 @@ namespace Laboratorio2.Negocio
         }
         public List<persona> ListFinal()
         {
-            
+          
             return ListFinal();
         }
 

@@ -9,6 +9,7 @@
 
 namespace Laboratorio2.Data
 {
+    using Laboratorio2.Negocio;
     using System;
     using System.Collections.Generic;
     
@@ -18,5 +19,10 @@ namespace Laboratorio2.Data
         public string nombrePersona { get; set; }
         public Nullable<int> edadPersona { get; set; }
         public string descripcionPersona { get; set; }
+
+        internal int Acceso(ClsNPersona clsNPersona)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

@@ -1,0 +1,16 @@
+C:\Users\HP-Notebook\Documents\GitHub\SegundoLaboratorio\Laboratorio2\Laboratorio2\bin\Debug\Laboratorio2.exe.config
+C:\Users\HP-Notebook\Documents\GitHub\SegundoLaboratorio\Laboratorio2\Laboratorio2\bin\Debug\Laboratorio2.exe
+C:\Users\HP-Notebook\Documents\GitHub\SegundoLaboratorio\Laboratorio2\Laboratorio2\bin\Debug\Laboratorio2.pdb
+C:\Users\HP-Notebook\Documents\GitHub\SegundoLaboratorio\Laboratorio2\Laboratorio2\bin\Debug\EntityFramework.dll
+C:\Users\HP-Notebook\Documents\GitHub\SegundoLaboratorio\Laboratorio2\Laboratorio2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP-Notebook\Documents\GitHub\SegundoLaboratorio\Laboratorio2\Laboratorio2\bin\Debug\EntityFramework.xml
+C:\Users\HP-Notebook\Documents\GitHub\SegundoLaboratorio\Laboratorio2\Laboratorio2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP-Notebook\Documents\GitHub\SegundoLaboratorio\Laboratorio2\Laboratorio2\obj\Debug\Laboratorio2.csproj.AssemblyReference.cache
+C:\Users\HP-Notebook\Documents\GitHub\SegundoLaboratorio\Laboratorio2\Laboratorio2\obj\Debug\Laboratorio2.Form1.resources
+C:\Users\HP-Notebook\Documents\GitHub\SegundoLaboratorio\Laboratorio2\Laboratorio2\obj\Debug\Laboratorio2.Properties.Resources.resources
+C:\Users\HP-Notebook\Documents\GitHub\SegundoLaboratorio\Laboratorio2\Laboratorio2\obj\Debug\Laboratorio2.Vista.FrmVista.resources
+C:\Users\HP-Notebook\Documents\GitHub\SegundoLaboratorio\Laboratorio2\Laboratorio2\obj\Debug\Laboratorio2.csproj.GenerateResource.cache
+C:\Users\HP-Notebook\Documents\GitHub\SegundoLaboratorio\Laboratorio2\Laboratorio2\obj\Debug\Laboratorio2.csproj.CoreCompileInputs.cache
+C:\Users\HP-Notebook\Documents\GitHub\SegundoLaboratorio\Laboratorio2\Laboratorio2\obj\Debug\Laboratorio2.csproj.CopyComplete
+C:\Users\HP-Notebook\Documents\GitHub\SegundoLaboratorio\Laboratorio2\Laboratorio2\obj\Debug\Laboratorio2.exe
+C:\Users\HP-Notebook\Documents\GitHub\SegundoLaboratorio\Laboratorio2\Laboratorio2\obj\Debug\Laboratorio2.pdb
