@@ -16,8 +16,8 @@ namespace Laboratorio2.Negocio
         }
         public List<persona> ListFinal()
         {
-            List<persona> list = ListofDataofTablePersona();
-            return list;
+            
+            return ListFinal();
         }
 
 
