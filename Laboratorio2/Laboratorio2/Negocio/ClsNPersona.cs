@@ -10,6 +10,19 @@ namespace Laboratorio2.Negocio
 {
     class ClsNPersona : ClsRPersona
     {
+       public int Acceso(persona persona)
+        {
+            if (persona.edadPersona >= 18)
+            {
+
+                return 0;
+            }
+            else
+                return 1;
+
+
+        }
+
         public void Guardar(persona per)
         {
             Crear(per);
