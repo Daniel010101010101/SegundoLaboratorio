@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace SegundoLab
+namespace Laboratorio2.Vista
 {
-    public partial class Form1 : Form
+    public partial class FrmVista : Form
     {
-        public Form1()
+        public FrmVista()
         {
             InitializeComponent();
         }
