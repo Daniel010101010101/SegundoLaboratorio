@@ -1,4 +1,5 @@
-﻿using System;
+﻿using SegundoLab.Data;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,9 +7,10 @@ using System.Threading.Tasks;
 
 namespace SegundoLab.Service
 {
-    interface IEdad
+    interface IPersona
     {
-        void Create(Entidad E);
-        
+        void Guardar(persona persona );
+        List<persona> listardatos();
+    
     }
 }
