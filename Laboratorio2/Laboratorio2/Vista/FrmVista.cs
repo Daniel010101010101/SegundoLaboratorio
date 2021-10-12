@@ -28,5 +28,10 @@ namespace Laboratorio2.Vista
                dataGridView1.Rows.Add(iterar.nombrePersona, iterar.edadPersona, iterar.descripcionPersona);
             }
         }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }

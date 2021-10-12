@@ -35,7 +35,7 @@ namespace Laboratorio2.Repository
             }
         }
 
-        public List<persona> listardatos()
+        public List<persona> LisDatatable()
         {
             using (almacendepersonasEntities conexionBd = new almacendepersonasEntities())
             {
@@ -43,7 +43,9 @@ namespace Laboratorio2.Repository
 
                 return ListOfData;
             }
-            
         }
+
+       
+           
     }
 }
